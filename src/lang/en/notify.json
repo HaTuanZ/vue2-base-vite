@@ -1,0 +1,35 @@
+{
+	"error": {
+		"403": "Forbidden ",
+		"404": "It looks like the data you are looking for no longer exists.",
+		"500": "The action was unsuccessful. Please try again or contact your IT Team.",
+		"add": "Create failed",
+		"create": "Create failed",
+		"delete": "Delete failed",
+		"destroy": "Delete failed",
+		"error-delete": "Can not delete <b>{subject_display}</b>, because: {error}",
+		"get-data": "An error occurred while retrieving data",
+		"get-detail": "An error occurred while retrieving data",
+		"help": "On the homepage",
+		"title": "Error",
+		"update": "Update Error",
+		"validate": "Unsatisfactory data"
+	},
+	"success": {
+		"add": "Create successfully",
+		"copyToClipboard": "Copy to clipboard",
+		"create": "Create successfully",
+		"delete": "Delete successfully",
+		"delete-name": "Delete <b>{subject_display}</b> successfully",
+		"destroy": "Delete successfully",
+		"import": "Create successfully",
+		"title": "Success",
+		"update": "Update successfully",
+		"change_password": "Change password successfully",
+		"send_change_password": "We have emailed your password reset link!",
+		"verify_email": "Email has been verified"
+	},
+	"warning": {
+		"title": "Warning"
+	}
+}
